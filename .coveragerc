@@ -1,0 +1,8 @@
+# .coveragerc
+
+[run]
+omit = 
+    venv/*
+    test_poridhiframe.py
+    conftest.py
+    app.py
